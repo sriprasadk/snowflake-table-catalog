@@ -19,7 +19,7 @@ df2 = df
 # if 'df' not in st.session_state:
 #    st.session_state.df = df
 
-st.title('Snowflake Table Catalog')
+st.title('Developer Play Ground - Snowflake Table Catalog')
 
 def human_bytes(B):
     """Return the given bytes as a human friendly KB, MB, GB, or TB string."""
